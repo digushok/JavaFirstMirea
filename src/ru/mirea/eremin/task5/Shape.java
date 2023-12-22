@@ -1,3 +1,4 @@
+package ru.mirea.eremin.task5;
 public abstract class Shape {
     protected String color;
     protected boolean filled;

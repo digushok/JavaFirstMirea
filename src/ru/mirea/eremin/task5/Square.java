@@ -1,3 +1,4 @@
+package ru.mirea.eremin.task5;
 public class Square extends Rectangle {
     public Square() {
         super();

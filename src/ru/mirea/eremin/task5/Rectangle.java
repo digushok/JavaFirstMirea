@@ -1,3 +1,4 @@
+package ru.mirea.eremin.task5;
 public class Rectangle extends Shape {
     protected double width, length;
 
