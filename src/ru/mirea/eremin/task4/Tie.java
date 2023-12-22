@@ -1,3 +1,4 @@
+package ru.mirea.eremin.task4;
 public class Tie extends Clothes implements ManClothing{
     public Tie(Sizes size, String color, double cost) {
         super(size, color, cost);

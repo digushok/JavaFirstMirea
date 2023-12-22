@@ -1,3 +1,4 @@
+package ru.mirea.eremin.task4;
 public class Pants extends Clothes implements ManClothing, WomenClothing{
     public Pants(Sizes size, String color, double cost) {
         super(size, color, cost);

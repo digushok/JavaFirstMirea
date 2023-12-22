@@ -1,3 +1,4 @@
+package ru.mirea.eremin.task4;
 public abstract class Clothes {
         private Sizes size;
         private String color;

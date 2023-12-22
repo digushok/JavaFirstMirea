@@ -1,3 +1,5 @@
+package ru.mirea.eremin.task4;
+
 public enum Sizes {
     XXS(36) {
         @Override

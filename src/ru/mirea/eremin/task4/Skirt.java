@@ -1,3 +1,5 @@
+package ru.mirea.eremin.task4;
+
 public class Skirt extends Clothes implements WomenClothing {
 
     public Skirt(Sizes size, String color, double cost) {
